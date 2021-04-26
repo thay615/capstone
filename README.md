@@ -1,5 +1,5 @@
 # Do United States Presidents Influence Gas Prices? 
-### Nashville Software School Capstone | Data Analytics 03
+Nashville Software School Capstone | Data Analytics 03
 
 ## Table of contents
 * [General info](#general-info)
